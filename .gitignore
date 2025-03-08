@@ -25,3 +25,6 @@ dist-ssr
 
 eslint.config.js
 package-lock.json
+
+
+.env
